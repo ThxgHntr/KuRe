@@ -1,0 +1,1 @@
+<p align="center">Food blog</p>
